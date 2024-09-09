@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Web\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Web\obj\Release\net8.0\PubTmp\EFSQLScripts\FoodDelivery.Repository.ApplicationDbContext.sql" />
+</sitemanifest>

@@ -1,0 +1,232 @@
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.staticwebassets.runtime.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.exe
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.deps.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.runtimeconfig.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.csproj.AssemblyReference.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.AssemblyInfoInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.AssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.RazorAssemblyInfo.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.RazorAssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryAdminApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\bundle\FoodDeliveryAdminApplication.styles.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\projectbundle\FoodDeliveryAdminApplication.bundle.scp.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeli.20B56562.Up2Date
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\refint\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.genruntimeconfig.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\ref\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\GemBox.Document.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Irony.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\itextsharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\XLParser.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.staticwebassets.runtime.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.exe
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.deps.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.runtimeconfig.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\GemBox.Document.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Irony.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\itextsharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\XLParser.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.csproj.AssemblyReference.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.AssemblyInfoInputs.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.AssemblyInfo.cs
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.RazorAssemblyInfo.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.RazorAssemblyInfo.cs
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryAdminApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodDeliveryAdminApplication.props
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodDeliveryAdminApplication.props
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodDeliveryAdminApplication.props
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\bundle\FoodDeliveryAdminApplication.styles.css
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\projectbundle\FoodDeliveryAdminApplication.bundle.scp.css
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeli.20B56562.Up2Date
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\refint\FoodDeliveryAdminApplication.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.genruntimeconfig.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\ref\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.staticwebassets.runtime.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.exe
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.deps.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.runtimeconfig.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\GemBox.Document.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Irony.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\itextsharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\XLParser.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.csproj.AssemblyReference.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.AssemblyInfoInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.AssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.RazorAssemblyInfo.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.RazorAssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryAdminApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\bundle\FoodDeliveryAdminApplication.styles.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\projectbundle\FoodDeliveryAdminApplication.bundle.scp.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeli.20B56562.Up2Date
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\refint\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.genruntimeconfig.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\ref\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.staticwebassets.runtime.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.exe
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.deps.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.runtimeconfig.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\FoodDeliveryAdminApplication.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\GemBox.Document.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Irony.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\itextsharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\XLParser.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.csproj.AssemblyReference.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.AssemblyInfoInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.AssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.RazorAssemblyInfo.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.RazorAssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryAdminApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodDeliveryAdminApplication.props
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\bundle\FoodDeliveryAdminApplication.styles.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\scopedcss\projectbundle\FoodDeliveryAdminApplication.bundle.scp.css
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeli.20B56562.Up2Date
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\refint\FoodDeliveryAdminApplication.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\FoodDeliveryAdminApplication.genruntimeconfig.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryAdminApplication\FoodDeliveryAdminApplication\obj\Debug\net8.0\ref\FoodDeliveryAdminApplication.dll

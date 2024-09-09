@@ -1,0 +1,12 @@
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\bin\Release\net8.0\FoodDelivery.Domain.deps.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\bin\Release\net8.0\FoodDelivery.Domain.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\bin\Release\net8.0\FoodDelivery.Domain.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\FoodDelivery.Domain.csproj.AssemblyReference.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\FoodDelivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\FoodDelivery.Domain.AssemblyInfoInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\FoodDelivery.Domain.AssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\FoodDelivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\FoodDelivery.Domain.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\refint\FoodDelivery.Domain.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\FoodDelivery.Domain.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Domain\obj\Release\net8.0\ref\FoodDelivery.Domain.dll

@@ -1,0 +1,90 @@
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.deps.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.AssemblyReference.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfoInputs.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfo.cs
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDeli.27146943.Up2Date
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\refint\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\ref\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.deps.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.AssemblyReference.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfoInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.CoreCompileInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDeli.27146943.Up2Date
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\refint\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryApp\FoodDeliveryApp\FoodDelivery.Repository\obj\Debug\net8.0\ref\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.deps.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.AssemblyReference.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfoInputs.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfo.cs
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDeli.27146943.Up2Date
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\refint\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\ref\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.deps.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.AssemblyReference.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfoInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.CoreCompileInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDeli.27146943.Up2Date
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\refint\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV2 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\ref\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.deps.json
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.AssemblyReference.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfoInputs.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfo.cs
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDeli.27146943.Up2Date
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\refint\FoodDelivery.Repository.dll
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Teona\Desktop\Finki\3god\6 semestar\is\Proekt\Versions\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\ref\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.deps.json
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.AssemblyReference.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfoInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfo.cs
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.CoreCompileInputs.cache
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDeli.27146943.Up2Date
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\refint\FoodDelivery.Repository.dll
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\astev\OneDrive\Desktop\FINKI\IS\Proekt\FoodDeliveryAppV3 (2)\FoodDeliveryAppV2\FoodDelivery.Repository\obj\Debug\net8.0\ref\FoodDelivery.Repository.dll

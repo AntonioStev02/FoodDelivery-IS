@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model FoodDeliveryAdminApplication.Models.Order
+
+<h1>Order Details</h1>
+
+<div class="container">
+
+    <div class="m-4 d-flex justify-content-between">
+        <a class="btn btn-success">Order For: @Model.Owner.UserName</a>    
+        <a asp-action="CreateInvoice" asp-route-id="@Model.Id" class="btn btn-outline-success">Create Invoice</a>
+    </div>
+
+    @for(int i=0; i<Model.DishInOrders.Count; i++)
+    {
+        var item = Model.DishInOrders.ElementAt(i).OrderedDish;
+        var quantity = Model.DishInOrders.ElementAt(i).Quantity;
+
+        @if (i % 3 == 0)
+        {
+            @:<div class="row ms-5">
+        }
+
+        <div class="col-3 m-4 ms-5">
+
+            <div class="card" style="width: 18rem; height: 35rem;">
+
+              <img class="card-img-top" src="@item.DishImage" alt="Card image cap" style="object-fit: cover; width: 100%; height: 250px;">
+
+              <div class="card-body">
+                <h4 class="card-title">@item.DishName</h4>
+                <h6 class="card-text"><b>Category of the dish:</b> @item.DishCategory</h6>
+                <h6 class="card-text"><b>Ingredients of the dish:</b> @item.DishIngredients</h6>
+                <h6 class="card-text"><b>Restaurant:</b> @item.Restaurant.RestaurantName</h6>
+                <h6 class="card-title"><i><b>Price for a portion: @item.Price ден.</b></i></h6>
+                <h6 class="card-text"><b>Quantity:</b> @quantity </h6>
+              </div>
+
+        
+            </div>
+
+        </div>
+
+        @if( i % 3 == 2)
+        {
+            @:</div>
+        }
+
+    }
+
+    <div class="m-4 d-flex justify-content-between">
+        <a asp-action="Index" class="btn btn-outline-secondary">Back</a>
+    </div>
+
+
+</div>

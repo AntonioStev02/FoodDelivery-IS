@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astev\\OneDrive\\Desktop\\FINKI\\IS\\Proekt\\FoodDeliveryApp\\FoodDeliveryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCA66CD-AD69-4224-9844-AE4F1085DE5F}|FoodDelivery.Web\\FoodDelivery.Web.csproj|c:\\users\\astev\\onedrive\\desktop\\finki\\is\\proekt\\fooddeliveryapp\\fooddeliveryapp\\fooddelivery.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCA66CD-AD69-4224-9844-AE4F1085DE5F}|FoodDelivery.Web\\FoodDelivery.Web.csproj|solutionrelative:fooddelivery.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\astev\\OneDrive\\Desktop\\FINKI\\IS\\Proekt\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDelivery.Web\\Controllers\\Api\\AdminController.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Web\\Controllers\\Api\\AdminController.cs",
+              "ToolTip": "C:\\Users\\astev\\OneDrive\\Desktop\\FINKI\\IS\\Proekt\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDelivery.Web\\Controllers\\Api\\AdminController.cs",
+              "RelativeToolTip": "FoodDelivery.Web\\Controllers\\Api\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:30:10.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

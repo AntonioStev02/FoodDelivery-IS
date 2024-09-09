@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPNAfoWNJg0ahUziypWYQOAAAAAACAAAAAAAQZgAAAAEAACAAAACgomEhknFVcYe36dICd2+b2z7WNGZXwncm147/6ZCahQAAAAAOgAAAAAIAACAAAACelr/HgeH7V9H0qd3yMueTWEnWlHDs766/nQvWkCHvnoAAAAB3+sJ91olPjK2V5A86FMDnTyR3Leca1SR+kMoBF4tyxYGIil8w9fYSXXe1z8rydZ/7LfR20fZY4O7Bcjk3vv5K5VatcWlqScbtyWHto/ZIsDhmhRAeF2d67viR/19TqrURSz6JJZ08JGLQ6Lf28nUNPZVQ8RlY+Ix+Sh0OiqNa4kAAAAAaXSc5SXiL3BAdw9isnmr4kqOR9/qHkMIPbai/TgH7E7RzHyFobUpF6WssDrUEtpjNzxtkZvUsOJkQZDrHgstU</EncryptedPassword>
+    <History>True|2024-09-08T12:43:35.6948604Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=fooddeliverydatabaseserver.database.windows.net,1433%3bInitial Catalog=FoodDeliveryApp_db%3bUser ID=anastevkovska%3bPassword=Admin%40123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="FoodDelivery.Repository.ApplicationDbContext">
+      <Value>Data Source=fooddeliverydatabaseserver.database.windows.net,1433%3bInitial Catalog=FoodDeliveryApp_db%3bUser ID=anastevkovska%3bPassword=Admin%40123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
